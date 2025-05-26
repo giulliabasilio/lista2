@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista2ex7", "lista2ex7\lista2ex7.csproj", "{7742232C-8846-4F42-8884-8C6C7D851A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7742232C-8846-4F42-8884-8C6C7D851A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7742232C-8846-4F42-8884-8C6C7D851A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7742232C-8846-4F42-8884-8C6C7D851A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7742232C-8846-4F42-8884-8C6C7D851A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A036176A-AEB2-4367-BC2B-B77E8A44690A}
+	EndGlobalSection
+EndGlobal
